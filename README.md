@@ -1,4 +1,5 @@
 ##Overview
+The twitter bot responds to tweets with a response and a hash tag.
 
 ###1.
 
