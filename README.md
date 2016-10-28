@@ -1,7 +1,9 @@
-#Overview
+##Overview
 
-##1.
+###1.
 
-##2.Authentication
+###2.Authentication
 
-##3.Requests
+###3.HTTP verbs
+GET-Used for retrieving resources.
+POST-Used for creating resources.
