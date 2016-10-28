@@ -18,6 +18,6 @@ POST-Used for creating resources.
 
 
 ###4.HTTP Requests
-client.get(path, params, callback);
-client.post(path, params, callback);
+client.get(path, params, callback);<br>
+client.post(path, params, callback);<br>
 client.stream(path, params, callback);
